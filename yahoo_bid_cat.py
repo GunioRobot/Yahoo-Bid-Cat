@@ -3,7 +3,8 @@
 from httplib import HTTPConnection, HTTPResponse
 
 def main():
-	pass
+	conn = HTTPConnection("http://tw.bid.yahoo.com", 80);
+
 
 if __name__ == "__main__":
 	main()
