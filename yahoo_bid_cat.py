@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+from httplib import HTTPConnection, HTTPResponse
+
 def main():
 	pass
 
