@@ -1,8 +1,12 @@
 Yahoo! Bid Category Parser
 ===========================
 
-<p>Arthur: Kenzou</p>
-<p>Mail: kenzou [dot] yeh [at] lingtelli [dot] com</p>
+Description
+---------------------
+This is a sample program to fetch the yahoo bid web page then parse the category
+into a text file.
 
-LICENSED
-===========================
+AUTHOR
+----------------------
+author: Kenzou
+mail: kenzou [dot] yeh [at] lingtelli [dot] com
